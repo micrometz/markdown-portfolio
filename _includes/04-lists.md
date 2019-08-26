@@ -1,0 +1,3 @@
+- [ ] sleep
+- [ ] doing nothing
+- [ ] computers
